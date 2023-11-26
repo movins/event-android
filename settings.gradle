@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "event"
+rootProject.name = "sdk"
 include ':demo'
 include ':sdk'
