@@ -14,6 +14,7 @@ import java.util.Map;
 public class BlockBase extends Dispatcher implements IBlock {
     private Object mModule;
     private boolean mStoped;
+
     private Map<String, Method> mHandles= new HashMap<>();
 
     @Override
